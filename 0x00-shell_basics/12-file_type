@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$file_info"
+file_path="/tmp/iamafile"
